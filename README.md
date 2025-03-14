@@ -47,3 +47,5 @@ developer community. Users and contributors can raise issues, suggest features, 
 This Time Tracking and Productivity Analytics Chrome Extension serves as an effective tool for individuals looking to manage their digital time better. By providing real-time tracking, categorized reports, and 
 
 insightful analytics, it helps users identify distractions, optimize work hours, and boost overall productivity. 
+
+![Image](https://github.com/user-attachments/assets/0da1cd77-c57a-43bf-a79e-62c26f88b78b)
